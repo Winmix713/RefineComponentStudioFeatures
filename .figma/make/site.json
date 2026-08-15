@@ -1,0 +1,10 @@
+{
+  "description": "A professional component management platform designed for UI engineers, offering live previews, dynamic inspection, and efficient component discovery.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
